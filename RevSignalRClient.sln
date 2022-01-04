@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevSignalRClient", "RevSignalRClient\RevSignalRClient.csproj", "{2D0A4E8C-226C-4D2E-9B20-418AF334AAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0A4E8C-226C-4D2E-9B20-418AF334AAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0A4E8C-226C-4D2E-9B20-418AF334AAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0A4E8C-226C-4D2E-9B20-418AF334AAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0A4E8C-226C-4D2E-9B20-418AF334AAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E703502-AF9A-46BC-B42A-5EF1125D2F14}
+	EndGlobalSection
+EndGlobal
